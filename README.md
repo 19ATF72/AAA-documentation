@@ -1,12 +1,17 @@
-# <img src="triple-a.jpeg" alt="drawing" style="width:auto; height:60px; "/> *Agile Anonymous Associates*
+# <img src="triple-a.jpeg" alt="drawing" style="width:auto; height:60px; "/> *Agile  Associates Anonymous*
 
 #### [UFCF85-30-3 -Enterprise-systems-development](https://github.com/19ATF77/AAA-documentation)
 
 ***
 ### Group members :shipit:
-- **Lead Testers:**   George Grenfield, James Jeremiah
-- **Lead Developers:**  Micah Hobby, Robert ???
-- **Technical Lead:**  Rodrigo Sanchez
+- **Lead Testers:**   
+  - George Greenfield - **17025822**
+  - James Jeremiah - **17042447**
+- **Lead Developers:**  
+  - Micah Hobby - **17027531**
+  - Robert -
+- **Technical Lead:**  
+   - Rodrigo Sanchez - **17044007**
 
 ### Key Dates :date:
 - **Date established -** *2020-09-21* :tada:
@@ -26,5 +31,7 @@
 - Github
 - Netbeans 9.2 | V.S.Code
 
+### Coding Standards :white_check_mark:
+- [Doxygen Standard](https://www.doxygen.nl/manual/docblocks.html)
 ***
 Updated *2020-09-21*
