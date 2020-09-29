@@ -24,14 +24,27 @@
 
 ### Meetings conducted :notebook:
 - **Project Roles & Team structure -** *2020-09-21*
+  - Decided on what members will cover what specific Roles
+  - Picked a project manager
 - **Discussion on workflows & technologies -** *2020-09-21*
+  - Decided style of development - Scrum w/ Kanban for tracking
+  - Decided on documentation standard - doxygen
+  - Setup of Trello & Github projects
+  - Descision of time management software
+- **Weekly catch-up and discussion -** *2020-09-29*
+  - Reviewed Trello board workflow
+  - Reviewed Github project & discused GitKraken
+  - Reviewed available resources for project
+  - Discussed Continuois Integration & Auromated Testing
+  - Set weekly meeting time - Monday 2-3pm
 
 ### Technologies Used :computer:
 - Trello
 - Github
-- Netbeans 9.2 | V.S.Code
+- Netbeans 9.2
 
 ### Coding Standards :white_check_mark:
 - [Doxygen Standard](https://www.doxygen.nl/manual/docblocks.html)
 ***
-Updated *2020-09-21*
+
+Updated *2020-09-29*
