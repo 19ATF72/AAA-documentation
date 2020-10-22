@@ -37,6 +37,11 @@
   - Reviewed available resources for project
   - Discussed Continuois Integration & Auromated Testing
   - Set weekly meeting time - Monday 2-3pm
+- **Practical excercise 1 discussion & resolution** *2020-10-22*
+  - Set up new repository for practical excercises
+  - Split up work for tasks between group members
+  - Producing & submitting tasks for excercise 1
+  - Reviewing tasks for next week
 
 ### Technologies Used :computer:
 - Trello
