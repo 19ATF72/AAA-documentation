@@ -9,9 +9,9 @@
   - James Jeremiah - **17042447**
 - **Lead Developers:**  
   - Micah Hobby - **17027531**
-  - Robert Barclay - **17043773**
+  - Rodrigo Sanchez - **17044007**
 - **Technical Lead:**  
-   - Rodrigo Sanchez - **17044007**
+  - Robert Barclay - **17043773**
 
 ### Key Dates :date:
 - **Date established -** *2020-09-21* :tada:
